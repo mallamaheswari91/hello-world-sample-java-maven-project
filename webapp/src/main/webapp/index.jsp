@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on tomcat using build job </h2>
-<h2> Glad to see you here </h2>
+<h1> thank you, happy lerning   </h1>
+<h2> thank you, happy lerning   </h2>
+<h3> Deploying on tomcat using build job </h3>
